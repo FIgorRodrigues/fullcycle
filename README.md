@@ -1,2 +1,2 @@
 # fullcycle
-Repositorio para guardar todos os desafios do treinamento FullCycle
+Repositorio para armazenar os desafios do treinamento FullCycle.
